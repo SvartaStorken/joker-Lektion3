@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
+> I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 <!-- END -->
 
