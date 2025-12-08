@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 <!-- END -->
 
