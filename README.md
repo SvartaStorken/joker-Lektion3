@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
