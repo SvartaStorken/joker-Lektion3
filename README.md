@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
