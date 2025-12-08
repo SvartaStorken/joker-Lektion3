@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
