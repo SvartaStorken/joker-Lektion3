@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 <!-- END -->
 
