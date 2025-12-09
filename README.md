@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
