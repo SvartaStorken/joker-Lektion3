@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
