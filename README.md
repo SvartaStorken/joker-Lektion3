@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
