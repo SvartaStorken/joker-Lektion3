@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
