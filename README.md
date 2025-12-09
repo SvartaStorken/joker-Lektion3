@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
