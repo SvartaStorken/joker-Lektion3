@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
