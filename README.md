@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dad that has fallen through the ice? A Popsicle.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
