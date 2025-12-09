@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
