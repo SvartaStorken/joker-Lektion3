@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
