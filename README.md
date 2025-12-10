@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
