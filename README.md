@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
 
 <!-- END -->
 
