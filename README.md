@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> A man walks into a bar and orders helicopter flavor chips. The barman replies âsorry mate we only do plainâ
 
 <!-- END -->
 
