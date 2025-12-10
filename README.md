@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
