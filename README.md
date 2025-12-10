@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
