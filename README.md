@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
