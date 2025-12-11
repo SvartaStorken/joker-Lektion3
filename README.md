@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
