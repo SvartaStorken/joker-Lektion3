@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
