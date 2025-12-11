@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> What do you call an eagle who can play the piano? Talonted!
 
 <!-- END -->
 
