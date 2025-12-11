@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 <!-- END -->
 
