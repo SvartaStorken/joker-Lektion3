@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do vegetarian zombies eat? Grrrrrainnnnnssss.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
