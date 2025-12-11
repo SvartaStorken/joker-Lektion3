@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
