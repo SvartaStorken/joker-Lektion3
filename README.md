@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 <!-- END -->
 
