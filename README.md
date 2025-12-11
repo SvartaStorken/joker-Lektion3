@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
