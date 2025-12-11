@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
