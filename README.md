@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
