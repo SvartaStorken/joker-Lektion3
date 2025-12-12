@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
