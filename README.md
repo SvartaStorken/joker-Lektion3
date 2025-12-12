@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
