@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
