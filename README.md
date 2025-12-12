@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
