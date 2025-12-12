@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
