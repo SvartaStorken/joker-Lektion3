@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
