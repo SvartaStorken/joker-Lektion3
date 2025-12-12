@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
