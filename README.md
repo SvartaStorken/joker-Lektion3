@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
