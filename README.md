@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
