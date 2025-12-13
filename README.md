@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
