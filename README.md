@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
