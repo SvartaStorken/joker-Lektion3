@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 <!-- END -->
 
