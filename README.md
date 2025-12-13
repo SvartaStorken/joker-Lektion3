@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
