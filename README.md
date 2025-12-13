@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 <!-- END -->
 
