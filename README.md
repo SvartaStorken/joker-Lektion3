@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> Why are pirates called pirates? Because they arrr!
 
 <!-- END -->
 
