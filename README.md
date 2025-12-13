@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
