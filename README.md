@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry? It was feeling crumby.
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
