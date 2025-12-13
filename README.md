@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
