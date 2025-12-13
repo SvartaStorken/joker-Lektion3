@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
