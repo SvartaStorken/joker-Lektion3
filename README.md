@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
