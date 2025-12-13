@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 <!-- END -->
 
