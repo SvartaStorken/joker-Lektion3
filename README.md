@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
