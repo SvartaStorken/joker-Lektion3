@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
