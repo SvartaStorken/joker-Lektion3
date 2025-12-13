@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you teach a kid to climb stairs? There is a step by step guide.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
