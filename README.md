@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 <!-- END -->
 
