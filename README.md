@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> What do you call a magician who has lost their magic? Ian.
 
 <!-- END -->
 
