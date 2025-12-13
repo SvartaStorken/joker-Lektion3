@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
