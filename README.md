@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pumpkins sit on peopleâs porches?
-
-They have no hands to knock on the door.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
