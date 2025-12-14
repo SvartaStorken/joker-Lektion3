@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> How do you make holy water? You boil the hell out of it.
 
 <!-- END -->
 
