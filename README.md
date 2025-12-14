@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
