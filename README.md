@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
