@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+> Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 <!-- END -->
 
