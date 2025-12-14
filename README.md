@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
