@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
