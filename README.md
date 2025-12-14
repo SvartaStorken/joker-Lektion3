@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
