@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
