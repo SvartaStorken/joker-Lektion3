@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
