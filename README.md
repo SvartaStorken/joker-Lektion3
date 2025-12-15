@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
