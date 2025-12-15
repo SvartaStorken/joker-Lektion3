@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
