@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
