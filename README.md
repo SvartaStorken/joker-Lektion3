@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
