@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
