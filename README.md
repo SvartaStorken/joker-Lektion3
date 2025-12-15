@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, âsorry we donât serve spiritsâ
 
 <!-- END -->
 
