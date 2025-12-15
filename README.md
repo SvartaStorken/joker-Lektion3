@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
