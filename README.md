@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
