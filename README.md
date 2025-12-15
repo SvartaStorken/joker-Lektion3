@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a droid that takes the long way around? R2 detour.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
