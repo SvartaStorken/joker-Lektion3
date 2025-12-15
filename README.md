@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
