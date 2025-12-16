@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
