@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
