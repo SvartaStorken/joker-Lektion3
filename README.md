@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+> What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 <!-- END -->
 
