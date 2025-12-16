@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
