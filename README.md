@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
