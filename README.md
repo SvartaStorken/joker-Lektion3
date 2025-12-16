@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> Why can't eggs have love? They will break up too soon.
 
 <!-- END -->
 
