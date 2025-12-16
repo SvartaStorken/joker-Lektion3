@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
