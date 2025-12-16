@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
