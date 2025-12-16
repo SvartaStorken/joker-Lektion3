@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> No matter how kind you are, German children are kinder.
 
 <!-- END -->
 
