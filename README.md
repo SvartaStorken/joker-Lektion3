@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 <!-- END -->
 
