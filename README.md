@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
