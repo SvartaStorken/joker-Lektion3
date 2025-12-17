@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
