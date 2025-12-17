@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
