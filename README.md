@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> New atoms frequently lose electrons when they fail to keep an ion them.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
