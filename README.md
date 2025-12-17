@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
