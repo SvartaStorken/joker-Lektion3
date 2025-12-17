@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
