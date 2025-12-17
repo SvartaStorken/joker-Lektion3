@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
