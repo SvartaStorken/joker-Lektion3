@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
