@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
