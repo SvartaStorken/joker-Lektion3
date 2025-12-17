@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a careful wolf? Aware wolf.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
