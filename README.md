@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
