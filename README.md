@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
