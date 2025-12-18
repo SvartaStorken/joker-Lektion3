@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 <!-- END -->
 
