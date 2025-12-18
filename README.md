@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
