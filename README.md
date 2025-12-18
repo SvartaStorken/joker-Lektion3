@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
