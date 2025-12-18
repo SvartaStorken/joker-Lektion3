@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
