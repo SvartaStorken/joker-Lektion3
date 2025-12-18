@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> Sore throats are a pain in the neck!
 
 <!-- END -->
 
