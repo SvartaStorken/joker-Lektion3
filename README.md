@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
