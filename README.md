@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 <!-- END -->
 
