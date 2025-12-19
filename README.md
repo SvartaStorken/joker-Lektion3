@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
