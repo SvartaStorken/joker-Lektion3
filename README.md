@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
