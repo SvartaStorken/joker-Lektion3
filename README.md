@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
