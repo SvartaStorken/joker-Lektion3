@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 <!-- END -->
 
