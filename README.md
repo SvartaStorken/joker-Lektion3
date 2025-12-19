@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
