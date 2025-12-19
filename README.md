@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
