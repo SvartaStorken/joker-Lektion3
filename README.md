@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
