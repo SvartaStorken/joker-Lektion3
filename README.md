@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
