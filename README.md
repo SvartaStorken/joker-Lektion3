@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
