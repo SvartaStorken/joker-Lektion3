@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
