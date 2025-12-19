@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
