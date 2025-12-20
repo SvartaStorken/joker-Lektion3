@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
