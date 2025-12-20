@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
