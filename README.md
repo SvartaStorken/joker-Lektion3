@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
