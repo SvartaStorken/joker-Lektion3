@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why should you never trust a pig with a secret? Because it's bound to squeal.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
