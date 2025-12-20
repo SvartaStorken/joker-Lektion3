@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
