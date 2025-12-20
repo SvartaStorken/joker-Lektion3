@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
