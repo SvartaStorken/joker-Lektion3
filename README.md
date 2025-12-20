@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
