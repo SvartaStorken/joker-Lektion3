@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
