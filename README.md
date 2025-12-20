@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
