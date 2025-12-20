@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
