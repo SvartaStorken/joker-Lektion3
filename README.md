@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
