@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A weasel walks into a bar. The bartender says, "Wow, I've never served a weasel before. What can I get for you?"
-"Pop," goes the weasel.
+> I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 <!-- END -->
 
