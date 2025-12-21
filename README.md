@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
 
 <!-- END -->
 
