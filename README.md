@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
