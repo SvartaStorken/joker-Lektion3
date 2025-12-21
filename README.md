@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
