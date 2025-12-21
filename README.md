@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the runner who was criticized? He just took it in stride
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
