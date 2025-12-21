@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
