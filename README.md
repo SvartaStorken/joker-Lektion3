@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
