@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
