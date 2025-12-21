@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
