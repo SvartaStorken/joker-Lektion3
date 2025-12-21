@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a seal and a sea lion?
-An ion! 
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
