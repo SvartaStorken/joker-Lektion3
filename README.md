@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
