@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
