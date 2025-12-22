@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy whose whole left side was cut off? He's all right now.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
