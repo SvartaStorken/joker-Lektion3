@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
