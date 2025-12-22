@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does an angry pepper do? It gets jalapeÃ±o face.
+> Why is Peter Pan always flying? Because he Neverlands.
 
 <!-- END -->
 
