@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
