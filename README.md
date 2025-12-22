@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
