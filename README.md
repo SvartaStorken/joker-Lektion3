@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
