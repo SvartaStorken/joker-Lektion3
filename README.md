@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
