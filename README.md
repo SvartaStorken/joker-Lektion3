@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 <!-- END -->
 
