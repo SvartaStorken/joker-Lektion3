@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
