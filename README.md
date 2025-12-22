@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
