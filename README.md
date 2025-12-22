@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
