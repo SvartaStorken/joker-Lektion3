@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
