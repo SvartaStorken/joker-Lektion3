@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Where does astronauts hangout after work? At the spacebar.
 
 <!-- END -->
 
