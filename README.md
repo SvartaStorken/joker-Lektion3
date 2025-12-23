@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> Why can't eggs have love? They will break up too soon.
 
 <!-- END -->
 
