@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
