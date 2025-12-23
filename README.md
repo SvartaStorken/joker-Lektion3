@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
