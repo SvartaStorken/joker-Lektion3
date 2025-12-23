@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
 
 <!-- END -->
 
