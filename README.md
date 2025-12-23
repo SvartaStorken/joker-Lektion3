@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't buy flowers at a monastery. Because only you can prevent florist friars.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
