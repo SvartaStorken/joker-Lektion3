@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
