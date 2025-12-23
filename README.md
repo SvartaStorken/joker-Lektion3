@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
