@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
