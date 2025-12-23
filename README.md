@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
