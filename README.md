@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
