@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
