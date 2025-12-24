@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
