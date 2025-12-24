@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
