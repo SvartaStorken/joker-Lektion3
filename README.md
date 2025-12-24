@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> What do birds give out on Halloween? Tweets.
 
 <!-- END -->
 
