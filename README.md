@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
