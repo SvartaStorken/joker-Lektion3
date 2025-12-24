@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
 
 <!-- END -->
 
