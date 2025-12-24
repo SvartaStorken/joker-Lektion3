@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
