@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
