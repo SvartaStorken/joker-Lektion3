@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
