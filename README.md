@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
