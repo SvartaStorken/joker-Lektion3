@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
