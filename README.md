@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
