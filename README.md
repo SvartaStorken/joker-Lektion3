@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
