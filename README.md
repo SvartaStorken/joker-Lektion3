@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
