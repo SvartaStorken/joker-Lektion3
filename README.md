@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
