@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
