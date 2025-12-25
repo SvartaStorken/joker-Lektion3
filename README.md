@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 <!-- END -->
 
