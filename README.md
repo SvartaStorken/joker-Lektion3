@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
