@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
