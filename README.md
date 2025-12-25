@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
