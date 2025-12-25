@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
