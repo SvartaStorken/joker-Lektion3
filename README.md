@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
