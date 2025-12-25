@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
