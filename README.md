@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 <!-- END -->
 
