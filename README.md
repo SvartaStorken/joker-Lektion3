@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
