@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
