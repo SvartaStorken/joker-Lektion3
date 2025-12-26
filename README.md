@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
