@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
