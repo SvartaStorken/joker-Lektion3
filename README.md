@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
