@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
