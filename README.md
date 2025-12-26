@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
