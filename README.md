@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
