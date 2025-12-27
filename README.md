@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
