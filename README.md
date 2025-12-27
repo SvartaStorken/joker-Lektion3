@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 <!-- END -->
 
