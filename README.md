@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
