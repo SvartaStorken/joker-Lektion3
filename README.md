@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
