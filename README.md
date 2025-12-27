@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
