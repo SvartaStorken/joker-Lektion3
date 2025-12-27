@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
