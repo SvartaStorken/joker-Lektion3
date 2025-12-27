@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> You know what they say about cliffhangers...
 
 <!-- END -->
 
