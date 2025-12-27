@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
