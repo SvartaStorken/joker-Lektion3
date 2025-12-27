@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
