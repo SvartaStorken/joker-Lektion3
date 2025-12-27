@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
