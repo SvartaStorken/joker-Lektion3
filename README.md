@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
