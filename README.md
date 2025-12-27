@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
