@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
