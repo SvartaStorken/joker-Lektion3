@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
