@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
