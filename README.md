@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> What's red and bad for your teeth? A Brick.
 
 <!-- END -->
 
