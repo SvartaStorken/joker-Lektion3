@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
