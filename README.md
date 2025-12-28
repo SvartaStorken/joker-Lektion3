@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 <!-- END -->
 
