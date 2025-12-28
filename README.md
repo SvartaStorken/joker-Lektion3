@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
