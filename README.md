@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
