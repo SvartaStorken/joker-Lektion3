@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
