@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> What did Yoda say when he saw himself in 4K? "HDMI"
 
 <!-- END -->
 
