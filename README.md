@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 <!-- END -->
 
