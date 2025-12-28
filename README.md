@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
