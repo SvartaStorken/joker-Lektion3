@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> How do you make holy water? You boil the hell out of it.
 
 <!-- END -->
 
