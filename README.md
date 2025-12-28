@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can I watch the TV? Dad: Yes, but donât turn it on.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
