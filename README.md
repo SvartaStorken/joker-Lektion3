@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
