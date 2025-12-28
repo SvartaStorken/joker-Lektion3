@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
