@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Where do cats write notes?
+Scratch Paper!
 
 <!-- END -->
 
