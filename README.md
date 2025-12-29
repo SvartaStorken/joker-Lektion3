@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
