@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
