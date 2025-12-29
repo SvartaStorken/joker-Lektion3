@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
