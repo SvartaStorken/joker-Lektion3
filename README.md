@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
