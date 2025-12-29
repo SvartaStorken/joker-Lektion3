@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
