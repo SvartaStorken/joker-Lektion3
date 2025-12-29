@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
