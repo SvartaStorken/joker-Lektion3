@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
