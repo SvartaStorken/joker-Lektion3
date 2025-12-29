@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
