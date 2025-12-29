@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
