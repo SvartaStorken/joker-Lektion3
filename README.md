@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
