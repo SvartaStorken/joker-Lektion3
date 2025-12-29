@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
