@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Animal Fact #25: Most bobcats are not named bob.
 
 <!-- END -->
 
