@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
