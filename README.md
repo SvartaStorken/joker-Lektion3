@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad, can you put my shoes on? I don't think they'll fit me.
+> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
 
 <!-- END -->
 
