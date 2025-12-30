@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
