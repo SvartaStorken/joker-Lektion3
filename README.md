@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
