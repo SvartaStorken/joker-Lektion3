@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
