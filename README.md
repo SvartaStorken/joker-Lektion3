@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
