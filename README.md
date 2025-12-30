@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
