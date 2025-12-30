@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
