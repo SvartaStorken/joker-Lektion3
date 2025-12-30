@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
