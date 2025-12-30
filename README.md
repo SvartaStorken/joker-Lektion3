@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
