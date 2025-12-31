@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 <!-- END -->
 
