@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
