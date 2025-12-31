@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> What do you call a cow with two legs? Lean beef.
 
 <!-- END -->
 
