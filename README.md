@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
