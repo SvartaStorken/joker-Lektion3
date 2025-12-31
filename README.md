@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 <!-- END -->
 
