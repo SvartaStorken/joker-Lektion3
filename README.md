@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
