@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
