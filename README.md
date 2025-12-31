@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
