@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
