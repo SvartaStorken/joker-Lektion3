@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
