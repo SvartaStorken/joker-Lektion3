@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
