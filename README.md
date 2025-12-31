@@ -4,8 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
