@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
