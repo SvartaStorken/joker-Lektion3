@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
