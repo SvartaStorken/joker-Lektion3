@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
