@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst part about being a cross-eyed teacher?
-
-They can't control their pupils.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
