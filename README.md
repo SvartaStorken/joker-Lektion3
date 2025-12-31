@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
