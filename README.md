@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
