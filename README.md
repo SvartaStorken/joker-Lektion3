@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
+> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 <!-- END -->
 
