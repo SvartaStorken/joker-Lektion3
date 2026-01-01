@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
