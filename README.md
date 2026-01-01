@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
