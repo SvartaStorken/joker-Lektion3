@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
