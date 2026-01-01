@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
