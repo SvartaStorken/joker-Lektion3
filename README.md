@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 
 <!-- END -->
 
