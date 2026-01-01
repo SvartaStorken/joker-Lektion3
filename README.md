@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
