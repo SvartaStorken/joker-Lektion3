@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
