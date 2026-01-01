@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
