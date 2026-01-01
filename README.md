@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
