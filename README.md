@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
