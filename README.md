@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
