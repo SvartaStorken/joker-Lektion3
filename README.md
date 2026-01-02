@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
