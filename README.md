@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
