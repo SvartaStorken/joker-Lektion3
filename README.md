@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
