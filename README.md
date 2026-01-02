@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
