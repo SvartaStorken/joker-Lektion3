@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
