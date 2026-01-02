@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
