@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
