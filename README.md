@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
