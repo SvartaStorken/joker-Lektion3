@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
