@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
