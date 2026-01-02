@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
