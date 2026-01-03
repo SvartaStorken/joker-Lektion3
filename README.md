@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
