@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
