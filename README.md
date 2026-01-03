@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
