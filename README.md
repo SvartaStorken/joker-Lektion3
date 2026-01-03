@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
