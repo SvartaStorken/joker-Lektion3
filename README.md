@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
