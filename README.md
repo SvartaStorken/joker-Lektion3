@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
