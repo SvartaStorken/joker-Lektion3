@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
