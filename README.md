@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
