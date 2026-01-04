@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
