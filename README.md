@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
