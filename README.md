@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
