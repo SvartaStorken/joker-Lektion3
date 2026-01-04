@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
 
 <!-- END -->
 
