@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
