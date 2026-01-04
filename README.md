@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
