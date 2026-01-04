@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> A cannibal is someone who is fed up with people.
 
 <!-- END -->
 
