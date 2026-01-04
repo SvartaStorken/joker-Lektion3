@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
