@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
