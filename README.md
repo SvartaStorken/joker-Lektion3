@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
