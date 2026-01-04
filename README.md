@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
