@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> Where do cats write notes?
+Scratch Paper!
 
 <!-- END -->
 
