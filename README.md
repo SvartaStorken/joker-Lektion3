@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
