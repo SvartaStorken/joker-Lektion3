@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
