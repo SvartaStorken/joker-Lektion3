@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many seconds are in a year?
-12.
-January 2nd, February 2nd, March 2nd, April 2nd.... etc
+> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 <!-- END -->
 
