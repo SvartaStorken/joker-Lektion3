@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> I fear for the calendar, its days are numbered.
+
 
 <!-- END -->
 
