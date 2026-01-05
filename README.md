@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
