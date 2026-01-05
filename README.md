@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
