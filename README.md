@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> What do you call your friend who stands in a hole? Phil.
 
 <!-- END -->
 
