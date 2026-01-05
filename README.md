@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
