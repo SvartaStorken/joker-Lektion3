@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 
 <!-- END -->
 
