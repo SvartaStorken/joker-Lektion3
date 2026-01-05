@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 <!-- END -->
 
