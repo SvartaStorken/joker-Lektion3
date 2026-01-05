@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
