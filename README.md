@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
