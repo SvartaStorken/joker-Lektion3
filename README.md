@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 <!-- END -->
 
