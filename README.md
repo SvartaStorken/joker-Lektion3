@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
