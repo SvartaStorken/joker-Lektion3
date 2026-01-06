@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 <!-- END -->
 
