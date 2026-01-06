@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
