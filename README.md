@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
