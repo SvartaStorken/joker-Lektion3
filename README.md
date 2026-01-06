@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
