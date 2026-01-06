@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
