@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
