@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
