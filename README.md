@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
