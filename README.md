@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
