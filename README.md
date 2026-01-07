@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
