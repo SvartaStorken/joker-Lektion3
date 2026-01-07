@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
