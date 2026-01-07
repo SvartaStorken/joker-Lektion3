@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 <!-- END -->
 
