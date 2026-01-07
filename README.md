@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
