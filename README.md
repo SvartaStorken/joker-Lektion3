@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> Don't trust atoms. They make up everything.
 
 <!-- END -->
 
