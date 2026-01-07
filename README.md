@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
