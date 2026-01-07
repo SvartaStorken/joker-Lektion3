@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
