@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do nurses carry around red crayons? Sometimes they need to draw blood.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
