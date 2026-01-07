@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> How do you organize a space party? You planet.
 
 <!-- END -->
 
