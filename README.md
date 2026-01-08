@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
