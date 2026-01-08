@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
