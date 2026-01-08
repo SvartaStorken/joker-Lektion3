@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> To be Frank, I'd have to change my name.
 
 <!-- END -->
 
