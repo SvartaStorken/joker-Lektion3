@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
