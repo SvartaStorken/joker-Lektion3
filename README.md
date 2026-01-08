@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
