@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
