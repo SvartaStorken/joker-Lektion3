@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
