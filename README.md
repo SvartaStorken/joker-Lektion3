@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
