@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
