@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
