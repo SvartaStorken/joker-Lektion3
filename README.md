@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the kid see the pirate movie? Because it was rated arrr!
+> What do you call a girl between two posts? Annette.
 
 <!-- END -->
 
