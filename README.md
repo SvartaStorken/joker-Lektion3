@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
