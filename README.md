@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
