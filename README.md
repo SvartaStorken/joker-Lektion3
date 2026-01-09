@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
