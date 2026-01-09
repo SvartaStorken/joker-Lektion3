@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
