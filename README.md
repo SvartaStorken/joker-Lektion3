@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 <!-- END -->
 
