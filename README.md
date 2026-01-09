@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
