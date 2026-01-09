@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
