@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
