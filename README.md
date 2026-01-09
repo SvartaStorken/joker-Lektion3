@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
