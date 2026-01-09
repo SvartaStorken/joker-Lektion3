@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
