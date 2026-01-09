@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
