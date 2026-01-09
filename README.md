@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
