@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
