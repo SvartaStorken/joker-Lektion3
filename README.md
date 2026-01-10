@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
