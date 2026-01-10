@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
