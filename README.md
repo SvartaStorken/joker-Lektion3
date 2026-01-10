@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 <!-- END -->
 
