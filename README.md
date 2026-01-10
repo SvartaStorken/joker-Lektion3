@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
