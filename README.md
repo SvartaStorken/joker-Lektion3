@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
