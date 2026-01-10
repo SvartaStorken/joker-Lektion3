@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
