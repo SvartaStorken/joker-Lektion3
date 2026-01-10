@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 <!-- END -->
 
