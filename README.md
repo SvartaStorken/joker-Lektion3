@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
