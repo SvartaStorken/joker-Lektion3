@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
