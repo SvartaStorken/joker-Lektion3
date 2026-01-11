@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
