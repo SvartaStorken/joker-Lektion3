@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
