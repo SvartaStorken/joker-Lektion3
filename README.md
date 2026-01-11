@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
