@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
