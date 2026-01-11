@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
