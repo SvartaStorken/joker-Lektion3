@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
