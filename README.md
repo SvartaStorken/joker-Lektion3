@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
