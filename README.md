@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> Archaeology really is a career in ruins.
 
 <!-- END -->
 
