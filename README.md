@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
