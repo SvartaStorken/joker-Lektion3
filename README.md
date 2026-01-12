@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> What do you call a group of disorganized cats? A cat-tastrophe.
 
 <!-- END -->
 
