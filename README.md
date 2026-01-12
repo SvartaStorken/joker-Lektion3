@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> How do robots eat guacamole? With computer chips.
 
 <!-- END -->
 
