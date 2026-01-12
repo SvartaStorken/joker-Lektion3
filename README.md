@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
+> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 <!-- END -->
 
