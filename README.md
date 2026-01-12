@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
