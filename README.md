@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
