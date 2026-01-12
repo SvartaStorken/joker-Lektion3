@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Whats a penguins favorite relative? Aunt Arctica.
 
 <!-- END -->
 
