@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
