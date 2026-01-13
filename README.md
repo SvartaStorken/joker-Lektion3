@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
