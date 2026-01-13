@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
