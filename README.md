@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
