@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
