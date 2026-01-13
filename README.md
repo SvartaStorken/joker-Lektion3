@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the feline fail the lie detector test? Because he be lion.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
