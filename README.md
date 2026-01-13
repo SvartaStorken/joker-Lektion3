@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
