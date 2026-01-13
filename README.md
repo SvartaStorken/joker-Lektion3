@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
