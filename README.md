@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
