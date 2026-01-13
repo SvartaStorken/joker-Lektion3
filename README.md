@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
