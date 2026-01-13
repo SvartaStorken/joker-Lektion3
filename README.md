@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
