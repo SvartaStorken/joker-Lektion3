@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
