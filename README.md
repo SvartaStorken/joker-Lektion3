@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
