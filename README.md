@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
