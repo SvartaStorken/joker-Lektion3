@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
