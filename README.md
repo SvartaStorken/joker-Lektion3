@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If youâre struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
