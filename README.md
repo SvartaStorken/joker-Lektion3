@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the news? FedEx and UPS are merging. Theyâre going to go by the name Fed-Up from now on.
+> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 <!-- END -->
 
