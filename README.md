@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
