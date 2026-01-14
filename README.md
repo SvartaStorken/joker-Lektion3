@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> Why did the house go to the doctor? It was having window panes.
 
 <!-- END -->
 
