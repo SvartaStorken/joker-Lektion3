@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
