@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
