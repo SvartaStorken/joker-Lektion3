@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
