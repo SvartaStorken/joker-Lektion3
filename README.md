@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
