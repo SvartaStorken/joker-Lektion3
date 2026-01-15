@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 <!-- END -->
 
