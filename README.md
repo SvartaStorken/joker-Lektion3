@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
