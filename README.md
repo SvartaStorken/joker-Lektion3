@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
