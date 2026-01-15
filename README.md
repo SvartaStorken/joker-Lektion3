@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
