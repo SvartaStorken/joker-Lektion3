@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
