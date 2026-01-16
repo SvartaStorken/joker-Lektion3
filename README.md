@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
