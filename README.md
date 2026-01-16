@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
