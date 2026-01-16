@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
