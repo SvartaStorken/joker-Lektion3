@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
