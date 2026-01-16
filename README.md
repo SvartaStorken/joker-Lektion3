@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
