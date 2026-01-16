@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
