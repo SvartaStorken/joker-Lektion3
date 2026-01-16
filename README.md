@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
