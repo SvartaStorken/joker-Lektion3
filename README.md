@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
