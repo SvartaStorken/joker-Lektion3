@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
