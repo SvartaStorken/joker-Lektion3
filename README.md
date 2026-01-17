@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
