@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
