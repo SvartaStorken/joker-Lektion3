@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
