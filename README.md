@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
