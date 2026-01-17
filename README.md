@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
