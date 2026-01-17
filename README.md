@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
