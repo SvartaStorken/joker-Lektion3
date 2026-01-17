@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish wearing a bowtie? Sofishticated.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
