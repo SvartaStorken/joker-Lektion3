@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
