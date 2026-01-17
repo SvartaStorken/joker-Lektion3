@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
