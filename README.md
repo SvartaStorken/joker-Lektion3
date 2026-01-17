@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
