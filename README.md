@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
