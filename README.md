@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+> How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
 
 <!-- END -->
 
