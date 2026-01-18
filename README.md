@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
