@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 
 <!-- END -->
 
