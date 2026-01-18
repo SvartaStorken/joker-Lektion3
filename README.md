@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know crocodiles could grow up to 15 feet? But most just have 4.
+> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 <!-- END -->
 
