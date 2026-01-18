@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
