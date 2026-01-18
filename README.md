@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
