@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
