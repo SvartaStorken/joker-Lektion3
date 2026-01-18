@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
