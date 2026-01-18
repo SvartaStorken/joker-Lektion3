@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
