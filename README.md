@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the kid see the pirate movie? Because it was rated arrr!
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
