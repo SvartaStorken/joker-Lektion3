@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
