@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
