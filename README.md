@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 <!-- END -->
 
