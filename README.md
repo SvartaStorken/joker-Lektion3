@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
