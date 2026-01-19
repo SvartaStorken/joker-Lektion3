@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
