@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
