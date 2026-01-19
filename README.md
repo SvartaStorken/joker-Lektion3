@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 <!-- END -->
 
