@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
