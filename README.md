@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
