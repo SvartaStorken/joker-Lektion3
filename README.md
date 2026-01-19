@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
