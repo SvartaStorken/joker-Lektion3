@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
