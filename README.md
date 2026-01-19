@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
