@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
