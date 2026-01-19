@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
