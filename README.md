@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
