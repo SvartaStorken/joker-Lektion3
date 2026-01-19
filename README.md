@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> How many bones are in the human hand? A handful of them.
 
 <!-- END -->
 
