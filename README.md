@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 <!-- END -->
 
