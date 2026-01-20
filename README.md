@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
