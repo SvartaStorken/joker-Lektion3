@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
 
 <!-- END -->
 
