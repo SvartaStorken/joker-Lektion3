@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the shore? Nothing, it just waved.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
