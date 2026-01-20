@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you teach a kid to climb stairs? There is a step by step guide.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
