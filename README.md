@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 <!-- END -->
 
