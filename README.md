@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
