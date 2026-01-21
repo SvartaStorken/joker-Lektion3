@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
