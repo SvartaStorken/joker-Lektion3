@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> What do you call a beehive without the b's? An eehive.
 
 <!-- END -->
 
