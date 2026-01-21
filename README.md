@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 <!-- END -->
 
