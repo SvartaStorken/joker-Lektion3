@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
