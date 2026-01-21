@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
