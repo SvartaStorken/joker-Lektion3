@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
