@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
