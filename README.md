@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
