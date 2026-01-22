@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's large, grey, and doesn't matter?
-An irrelephant.
-
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
