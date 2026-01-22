@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
