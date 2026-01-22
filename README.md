@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
