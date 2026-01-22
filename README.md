@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'd like to start a diet, but I've got too much on my plate right now.
+> Why do pumpkins sit on peopleâs porches?
+
+They have no hands to knock on the door.
 
 <!-- END -->
 
