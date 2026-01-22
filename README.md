@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
