@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pumpkins sit on peopleâs porches?
-
-They have no hands to knock on the door.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
