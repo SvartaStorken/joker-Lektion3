@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 <!-- END -->
 
