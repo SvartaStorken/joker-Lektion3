@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
