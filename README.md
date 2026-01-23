@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
