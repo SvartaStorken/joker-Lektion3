@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
