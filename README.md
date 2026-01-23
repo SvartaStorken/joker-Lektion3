@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
