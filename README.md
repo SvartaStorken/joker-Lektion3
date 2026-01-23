@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
