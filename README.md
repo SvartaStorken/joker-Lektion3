@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> What has a bed that you canât sleep in? A river.
 
 <!-- END -->
 
