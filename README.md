@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
