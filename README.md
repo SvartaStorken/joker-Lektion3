@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 <!-- END -->
 
