@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
