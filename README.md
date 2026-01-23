@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> Why can't eggs have love? They will break up too soon.
 
 <!-- END -->
 
