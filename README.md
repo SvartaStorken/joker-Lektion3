@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
