@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
