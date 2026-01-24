@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
