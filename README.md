@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
