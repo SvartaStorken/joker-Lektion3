@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
