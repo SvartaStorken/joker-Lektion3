@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
