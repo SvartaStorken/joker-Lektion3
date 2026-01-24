@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
