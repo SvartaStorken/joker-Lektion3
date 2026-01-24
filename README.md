@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
