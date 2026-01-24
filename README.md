@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
