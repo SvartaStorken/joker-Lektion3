@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
