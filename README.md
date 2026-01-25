@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
