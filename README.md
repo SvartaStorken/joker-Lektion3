@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
