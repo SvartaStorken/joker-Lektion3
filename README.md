@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
