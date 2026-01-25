@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
