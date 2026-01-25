@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> Two guys walked into a bar, the third one ducked.
 
 <!-- END -->
 
