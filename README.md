@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
