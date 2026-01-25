@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
