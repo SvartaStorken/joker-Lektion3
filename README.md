@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 <!-- END -->
 
