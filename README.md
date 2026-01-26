@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
