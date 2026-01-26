@@ -4,9 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
+>  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
 
-They're always plotting something.
+
 
 <!-- END -->
 
