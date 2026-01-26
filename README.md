@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the kid see the pirate movie? Because it was rated arrr!
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
