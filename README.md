@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
