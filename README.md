@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
