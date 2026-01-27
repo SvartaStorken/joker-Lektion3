@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
