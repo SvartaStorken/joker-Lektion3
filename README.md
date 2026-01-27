@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
