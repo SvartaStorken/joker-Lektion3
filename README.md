@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
