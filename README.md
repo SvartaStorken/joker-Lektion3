@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> R.I.P. boiled water. You will be mist.
 
 <!-- END -->
 
