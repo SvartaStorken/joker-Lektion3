@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
