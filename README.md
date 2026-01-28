@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
