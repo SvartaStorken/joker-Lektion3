@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
