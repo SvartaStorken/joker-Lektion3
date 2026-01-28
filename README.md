@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
