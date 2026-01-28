@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> Why are pirates called pirates? Because they arrr!
 
 <!-- END -->
 
