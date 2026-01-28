@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
