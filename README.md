@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
