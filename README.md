@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
