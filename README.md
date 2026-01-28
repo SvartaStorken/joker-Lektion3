@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
