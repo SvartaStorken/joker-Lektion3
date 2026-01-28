@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 <!-- END -->
 
