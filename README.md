@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
