@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
