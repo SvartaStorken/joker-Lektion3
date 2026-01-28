@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
