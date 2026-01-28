@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
