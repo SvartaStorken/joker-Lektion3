@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
