@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
