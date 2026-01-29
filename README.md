@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
