@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
