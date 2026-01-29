@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
