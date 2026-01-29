@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
