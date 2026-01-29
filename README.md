@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
