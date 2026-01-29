@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
