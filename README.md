@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
