@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 <!-- END -->
 
