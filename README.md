@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
