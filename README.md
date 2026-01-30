@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 <!-- END -->
 
