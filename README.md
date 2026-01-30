@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
