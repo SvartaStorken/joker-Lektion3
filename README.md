@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
