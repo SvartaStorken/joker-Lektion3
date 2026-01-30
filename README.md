@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
