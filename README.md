@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
