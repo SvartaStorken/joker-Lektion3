@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
