@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> What's black and white and read all over? The newspaper.
 
 <!-- END -->
 
