@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
