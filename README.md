@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
