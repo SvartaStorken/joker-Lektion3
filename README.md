@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
 
 <!-- END -->
 
