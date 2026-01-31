@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
