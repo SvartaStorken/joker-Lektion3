@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 <!-- END -->
 
