@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
