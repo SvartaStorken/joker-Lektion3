@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
