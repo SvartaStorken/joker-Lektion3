@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
 
 <!-- END -->
 
