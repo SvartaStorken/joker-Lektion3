@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
