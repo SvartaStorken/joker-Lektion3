@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> Why can't eggs have love? They will break up too soon.
 
 <!-- END -->
 
