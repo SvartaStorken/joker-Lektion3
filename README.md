@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
