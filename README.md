@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
