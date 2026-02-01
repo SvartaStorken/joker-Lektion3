@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
