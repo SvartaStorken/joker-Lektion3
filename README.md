@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
