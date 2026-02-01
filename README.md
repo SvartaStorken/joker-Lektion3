@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
