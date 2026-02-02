@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> This is my step ladder. I never knew my real ladder.
 
 <!-- END -->
 
