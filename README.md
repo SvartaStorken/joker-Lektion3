@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 <!-- END -->
 
