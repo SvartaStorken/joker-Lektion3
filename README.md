@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the person who stole my anti-depressant pills: I hope you're happy now.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
