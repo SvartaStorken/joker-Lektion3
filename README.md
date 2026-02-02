@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
