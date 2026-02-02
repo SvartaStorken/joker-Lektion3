@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
