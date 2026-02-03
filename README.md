@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
