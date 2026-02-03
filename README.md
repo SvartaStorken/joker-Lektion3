@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
