@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
