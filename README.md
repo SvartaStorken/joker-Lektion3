@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
