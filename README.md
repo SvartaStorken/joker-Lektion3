@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 <!-- END -->
 
