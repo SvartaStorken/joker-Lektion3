@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 <!-- END -->
 
