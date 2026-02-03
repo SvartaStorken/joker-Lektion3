@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
