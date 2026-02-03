@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 <!-- END -->
 
