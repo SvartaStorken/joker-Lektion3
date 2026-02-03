@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
