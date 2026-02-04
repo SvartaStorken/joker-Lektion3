@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
