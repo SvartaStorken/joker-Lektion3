@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
