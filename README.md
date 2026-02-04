@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 <!-- END -->
 
