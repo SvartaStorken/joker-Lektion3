@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
