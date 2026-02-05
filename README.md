@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the house go to the doctor? It was having window panes.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
