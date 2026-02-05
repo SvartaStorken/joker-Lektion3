@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
