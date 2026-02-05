@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
