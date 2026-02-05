@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's large, grey, and doesn't matter?
-An irrelephant.
-
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
