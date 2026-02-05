@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
 
 <!-- END -->
 
