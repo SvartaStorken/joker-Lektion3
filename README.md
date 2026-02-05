@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 <!-- END -->
 
