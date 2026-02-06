@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 <!-- END -->
 
