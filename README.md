@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 <!-- END -->
 
