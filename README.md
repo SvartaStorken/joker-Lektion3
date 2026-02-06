@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
