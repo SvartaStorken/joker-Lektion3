@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
