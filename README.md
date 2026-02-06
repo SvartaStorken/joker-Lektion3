@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> What do you call your friend who stands in a hole? Phil.
 
 <!-- END -->
 
