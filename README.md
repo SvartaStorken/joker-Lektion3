@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> R.I.P. boiled water. You will be mist.
 
 <!-- END -->
 
