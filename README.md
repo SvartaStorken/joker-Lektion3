@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
