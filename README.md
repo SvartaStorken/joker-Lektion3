@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
