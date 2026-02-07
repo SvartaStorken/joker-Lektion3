@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
