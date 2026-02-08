@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
