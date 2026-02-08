@@ -4,7 +4,11 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
 
 <!-- END -->
 
