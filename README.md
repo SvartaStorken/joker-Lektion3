@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
