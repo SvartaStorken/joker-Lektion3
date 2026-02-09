@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
