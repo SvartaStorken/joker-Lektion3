@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
