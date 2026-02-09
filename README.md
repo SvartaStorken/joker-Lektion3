@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
