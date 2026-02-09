@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
