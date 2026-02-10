@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
