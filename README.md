@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
