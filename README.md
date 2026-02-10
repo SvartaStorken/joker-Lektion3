@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
