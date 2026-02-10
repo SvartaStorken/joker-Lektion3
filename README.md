@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
