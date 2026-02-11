@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
