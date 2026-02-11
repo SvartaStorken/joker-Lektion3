@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
