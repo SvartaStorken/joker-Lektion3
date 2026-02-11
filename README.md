@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
