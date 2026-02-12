@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
