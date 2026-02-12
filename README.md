@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
