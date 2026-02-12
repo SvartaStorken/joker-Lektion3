@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a droid that takes the long way around? R2 detour.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
