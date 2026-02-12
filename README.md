@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
