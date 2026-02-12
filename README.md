@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
