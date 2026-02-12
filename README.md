@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> A cannibal is someone who is fed up with people.
 
 <!-- END -->
 
