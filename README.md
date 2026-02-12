@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
