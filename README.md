@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 <!-- END -->
 
