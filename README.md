@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
+> If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
 
 <!-- END -->
 
