@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
 
 <!-- END -->
 
