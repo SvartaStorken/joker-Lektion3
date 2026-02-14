@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+> If youâre struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 <!-- END -->
 
