@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
