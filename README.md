@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
