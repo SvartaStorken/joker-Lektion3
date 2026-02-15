@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
