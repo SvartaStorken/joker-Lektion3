@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> When is a door not a door? When it's ajar.
 
 <!-- END -->
 
