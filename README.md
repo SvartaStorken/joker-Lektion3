@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
