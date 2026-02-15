@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens when you anger a brain surgeon? They will give you a piece of your mind.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
