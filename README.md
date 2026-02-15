@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
