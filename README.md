@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
