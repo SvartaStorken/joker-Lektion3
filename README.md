@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
