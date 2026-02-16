@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
