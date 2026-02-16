@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
