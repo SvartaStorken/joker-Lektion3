@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
