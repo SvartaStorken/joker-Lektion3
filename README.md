@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
