@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to the hokey pokey, but I turned myself around.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
