@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> I fear for the calendar, its days are numbered.
+
 
 <!-- END -->
 
