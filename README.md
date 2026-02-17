@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
