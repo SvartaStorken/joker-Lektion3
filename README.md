@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
