@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
