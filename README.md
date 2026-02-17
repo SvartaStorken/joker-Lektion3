@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
