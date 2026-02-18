@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
