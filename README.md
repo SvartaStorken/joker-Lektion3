@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
 
 <!-- END -->
 
