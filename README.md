@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
