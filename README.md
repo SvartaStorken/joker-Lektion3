@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
