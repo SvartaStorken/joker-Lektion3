@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
