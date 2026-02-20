@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
