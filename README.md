@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
