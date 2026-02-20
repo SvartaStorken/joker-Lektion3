@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
