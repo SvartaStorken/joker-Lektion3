@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a careful wolf? Aware wolf.
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
