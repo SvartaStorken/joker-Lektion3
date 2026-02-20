@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
