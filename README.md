@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+> Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 
 <!-- END -->
 
