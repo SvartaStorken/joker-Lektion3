@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
