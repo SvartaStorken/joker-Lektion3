@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
