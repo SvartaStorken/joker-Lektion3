@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
