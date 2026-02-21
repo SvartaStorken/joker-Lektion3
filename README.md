@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
