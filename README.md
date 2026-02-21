@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 <!-- END -->
 
