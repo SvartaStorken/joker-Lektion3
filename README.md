@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
