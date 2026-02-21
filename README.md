@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
