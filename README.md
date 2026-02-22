@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
