@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
