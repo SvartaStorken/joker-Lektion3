@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
