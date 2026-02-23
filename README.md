@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
 
 <!-- END -->
 
