@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
