@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
