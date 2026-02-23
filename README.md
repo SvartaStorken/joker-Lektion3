@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a chicken with a skunk? A fowl smell!
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
