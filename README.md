@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
