@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
