@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 <!-- END -->
 
