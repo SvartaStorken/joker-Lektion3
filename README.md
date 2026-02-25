@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
