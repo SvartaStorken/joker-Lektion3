@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
 
 <!-- END -->
 
