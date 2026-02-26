@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
