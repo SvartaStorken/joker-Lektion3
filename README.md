@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Why do bears have hairy coats? Fur protection.
 
 <!-- END -->
 
