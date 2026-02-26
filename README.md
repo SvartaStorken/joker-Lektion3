@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
