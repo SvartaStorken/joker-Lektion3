@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
