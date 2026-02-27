@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
