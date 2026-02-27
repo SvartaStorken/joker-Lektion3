@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
