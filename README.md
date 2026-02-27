@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
