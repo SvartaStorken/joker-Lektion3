@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
