@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
