@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
