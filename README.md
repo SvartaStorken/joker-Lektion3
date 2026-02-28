@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do vegetarian zombies eat? Grrrrrainnnnnssss.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
