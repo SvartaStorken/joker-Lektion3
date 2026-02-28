@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> I got fired from the transmission factor, turns out I didn't put on enough shifts...
 
 <!-- END -->
 
