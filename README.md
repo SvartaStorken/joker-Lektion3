@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
