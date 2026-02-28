@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
