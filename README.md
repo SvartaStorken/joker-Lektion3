@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
