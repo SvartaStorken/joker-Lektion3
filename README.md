@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 <!-- END -->
 
