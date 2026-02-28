@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
