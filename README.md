@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
