@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 
 <!-- END -->
 
