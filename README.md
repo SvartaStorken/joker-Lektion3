@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
