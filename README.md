@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
