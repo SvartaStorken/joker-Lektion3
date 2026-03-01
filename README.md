@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
 
 <!-- END -->
 
