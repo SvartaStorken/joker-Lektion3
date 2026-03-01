@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
