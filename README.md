@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
