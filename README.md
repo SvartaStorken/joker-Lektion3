@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
