@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
