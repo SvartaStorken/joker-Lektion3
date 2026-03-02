@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
