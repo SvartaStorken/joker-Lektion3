@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
