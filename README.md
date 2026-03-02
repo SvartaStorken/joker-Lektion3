@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
