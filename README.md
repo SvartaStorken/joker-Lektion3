@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
