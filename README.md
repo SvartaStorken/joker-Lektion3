@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
