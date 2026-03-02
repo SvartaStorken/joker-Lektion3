@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
