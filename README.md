@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> Where does astronauts hangout after work? At the spacebar.
 
 <!-- END -->
 
