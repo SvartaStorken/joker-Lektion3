@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> What do you call a cow with no legs? Ground beef.
 
 <!-- END -->
 
