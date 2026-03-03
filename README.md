@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
