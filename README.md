@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> How much does a hipster weigh? An instagram.
 
 <!-- END -->
 
