@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
