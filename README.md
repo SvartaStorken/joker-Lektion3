@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
