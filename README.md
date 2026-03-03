@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
