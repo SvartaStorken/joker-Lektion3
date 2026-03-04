@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> How do locomotives know where they're going? Lots of training
 
 <!-- END -->
 
