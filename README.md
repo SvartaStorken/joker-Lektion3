@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
 
 <!-- END -->
 
