@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
