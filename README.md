@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
