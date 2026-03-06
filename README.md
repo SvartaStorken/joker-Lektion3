@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
