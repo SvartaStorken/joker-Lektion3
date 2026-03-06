@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
