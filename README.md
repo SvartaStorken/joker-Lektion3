@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
