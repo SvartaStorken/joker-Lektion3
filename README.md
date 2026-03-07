@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
