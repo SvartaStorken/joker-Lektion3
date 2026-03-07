@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
