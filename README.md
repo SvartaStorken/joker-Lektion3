@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
