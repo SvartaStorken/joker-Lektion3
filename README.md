@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
