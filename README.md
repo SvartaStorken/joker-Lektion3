@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
