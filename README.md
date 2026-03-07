@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
