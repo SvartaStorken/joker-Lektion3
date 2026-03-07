@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
