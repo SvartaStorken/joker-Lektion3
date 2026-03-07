@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Archaeology really is a career in ruins.
 
 <!-- END -->
 
