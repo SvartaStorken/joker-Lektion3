@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
 
 <!-- END -->
 
