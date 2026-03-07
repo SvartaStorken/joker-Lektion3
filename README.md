@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
