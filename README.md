@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
