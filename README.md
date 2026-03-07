@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
