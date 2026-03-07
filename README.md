@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
