@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
