@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
