@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
