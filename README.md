@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
