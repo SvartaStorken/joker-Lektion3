@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 <!-- END -->
 
