@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
