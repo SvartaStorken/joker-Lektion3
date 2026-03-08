@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
+> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 <!-- END -->
 
