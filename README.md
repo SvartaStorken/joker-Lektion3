@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
