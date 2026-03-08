@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
