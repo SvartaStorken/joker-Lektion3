@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
