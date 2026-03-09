@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 <!-- END -->
 
