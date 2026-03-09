@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
