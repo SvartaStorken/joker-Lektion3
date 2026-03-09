@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There are two types of people in this world, those who can extrapolate from incomplete data...
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
