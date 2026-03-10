@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
