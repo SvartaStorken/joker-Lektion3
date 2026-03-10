@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> Don't trust atoms. They make up everything.
 
 <!-- END -->
 
