@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
