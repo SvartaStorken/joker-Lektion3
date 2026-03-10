@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This morning I was wondering where the sun was, but then it dawned on me.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
