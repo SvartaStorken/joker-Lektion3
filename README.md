@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
