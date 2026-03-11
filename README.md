@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
