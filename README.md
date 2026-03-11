@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
 
 <!-- END -->
 
