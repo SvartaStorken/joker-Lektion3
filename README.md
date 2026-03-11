@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
