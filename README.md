@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
