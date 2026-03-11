@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
