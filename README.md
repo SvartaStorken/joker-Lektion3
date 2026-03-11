@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> What is a witch's favorite subject in school? Spelling!
 
 <!-- END -->
 
