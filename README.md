@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
