@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
