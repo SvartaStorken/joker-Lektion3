@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
