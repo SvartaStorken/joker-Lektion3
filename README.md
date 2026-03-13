@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
