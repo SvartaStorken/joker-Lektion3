@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
