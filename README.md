@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
