@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
