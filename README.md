@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
