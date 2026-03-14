@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
