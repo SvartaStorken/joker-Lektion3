@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> What do you call a criminal going down the stairs? Condescending
 
 <!-- END -->
 
