@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A magician was driving down the street and then he turned into a driveway.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
