@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 
 <!-- END -->
 
