@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
