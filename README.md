@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
