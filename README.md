@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
