@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> My dentist is the best, he even has a little plaque!
 
 <!-- END -->
 
