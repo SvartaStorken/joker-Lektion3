@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
