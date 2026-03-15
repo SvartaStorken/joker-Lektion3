@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
