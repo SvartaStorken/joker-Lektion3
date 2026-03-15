@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
