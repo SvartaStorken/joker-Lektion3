@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
