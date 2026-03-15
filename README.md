@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
