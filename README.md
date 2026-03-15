@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
