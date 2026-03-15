@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> What did Yoda say when he saw himself in 4K? "HDMI"
 
 <!-- END -->
 
