@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
