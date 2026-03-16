@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
