@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
