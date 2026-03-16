@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 <!-- END -->
 
