@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
