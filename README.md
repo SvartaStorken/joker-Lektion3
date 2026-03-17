@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
