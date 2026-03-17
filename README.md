@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
