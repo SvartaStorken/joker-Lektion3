@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to think I was indecisive, but now I'm not sure.
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
