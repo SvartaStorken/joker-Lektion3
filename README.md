@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 
 <!-- END -->
 
