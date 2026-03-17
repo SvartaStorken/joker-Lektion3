@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
