@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
