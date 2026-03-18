@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 <!-- END -->
 
