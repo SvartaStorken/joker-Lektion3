@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every night at 11:11, I make a wish that someone will come fix my broken clock.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
