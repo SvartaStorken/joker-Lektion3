@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
