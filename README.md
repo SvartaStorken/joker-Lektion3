@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
