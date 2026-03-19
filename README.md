@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+> My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 
 <!-- END -->
 
