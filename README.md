@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
