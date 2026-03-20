@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
