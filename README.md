@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
