@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
