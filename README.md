@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
 
 <!-- END -->
 
