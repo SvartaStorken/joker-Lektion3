@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> Animal Fact #25: Most bobcats are not named bob.
 
 <!-- END -->
 
