@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
