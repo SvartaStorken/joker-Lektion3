@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Why is Peter Pan always flying? Because he Neverlands.
 
 <!-- END -->
 
