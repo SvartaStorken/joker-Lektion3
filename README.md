@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
