@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
