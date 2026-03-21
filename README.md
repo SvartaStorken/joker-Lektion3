@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
