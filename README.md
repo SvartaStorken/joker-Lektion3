@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
