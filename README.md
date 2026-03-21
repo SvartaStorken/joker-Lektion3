@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
