@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a troublesome Canadian high schooler? A poutine.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
