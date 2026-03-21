@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do crabs never give to charity? Because theyâre shellfish.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
