@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
