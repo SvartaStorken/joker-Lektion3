@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
