@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
