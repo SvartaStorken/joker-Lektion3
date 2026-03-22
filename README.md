@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
