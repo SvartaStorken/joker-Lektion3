@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
 
 <!-- END -->
 
