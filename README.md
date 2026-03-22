@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
