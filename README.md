@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 <!-- END -->
 
