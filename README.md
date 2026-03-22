@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
