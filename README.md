@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just got fired from a florist, apparently I took too many leaves.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
