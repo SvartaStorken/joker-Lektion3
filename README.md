@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
