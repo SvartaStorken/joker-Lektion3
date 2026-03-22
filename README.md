@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
