@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
