@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
