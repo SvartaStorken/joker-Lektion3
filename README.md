@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
