@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the house go to the doctor? It was having window panes.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
