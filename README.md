@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
