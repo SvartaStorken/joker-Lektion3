@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
