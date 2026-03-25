@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
