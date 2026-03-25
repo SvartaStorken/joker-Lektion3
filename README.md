@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
