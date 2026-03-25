@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
