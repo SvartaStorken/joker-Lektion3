@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
