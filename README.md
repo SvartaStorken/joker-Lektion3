@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
