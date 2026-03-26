@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
