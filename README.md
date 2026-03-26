@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
