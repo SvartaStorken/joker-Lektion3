@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
