@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
