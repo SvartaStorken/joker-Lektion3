@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didn't the number 4 get into the nightclub? Because he is 2 square.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
