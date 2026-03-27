@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
