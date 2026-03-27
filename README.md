@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
