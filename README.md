@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
