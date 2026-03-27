@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
