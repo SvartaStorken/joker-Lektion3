@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
