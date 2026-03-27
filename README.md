@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
