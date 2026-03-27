@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
