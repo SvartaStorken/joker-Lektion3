@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
