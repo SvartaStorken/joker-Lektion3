@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
