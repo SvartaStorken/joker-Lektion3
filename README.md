@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
