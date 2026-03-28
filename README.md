@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 <!-- END -->
 
