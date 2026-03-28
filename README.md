@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
