@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
