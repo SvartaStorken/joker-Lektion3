@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
