@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
