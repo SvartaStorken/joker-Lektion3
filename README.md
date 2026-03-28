@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
