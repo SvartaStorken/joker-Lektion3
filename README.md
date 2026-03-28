@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
