@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
