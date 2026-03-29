@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
