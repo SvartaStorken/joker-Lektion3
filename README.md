@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 <!-- END -->
 
