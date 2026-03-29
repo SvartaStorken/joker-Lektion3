@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
