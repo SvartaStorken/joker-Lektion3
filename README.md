@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
