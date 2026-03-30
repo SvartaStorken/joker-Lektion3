@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 <!-- END -->
 
