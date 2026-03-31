@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
