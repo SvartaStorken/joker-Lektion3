@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
