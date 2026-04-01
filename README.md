@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
