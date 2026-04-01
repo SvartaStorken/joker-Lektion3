@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
