@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
