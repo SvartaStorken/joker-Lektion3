@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
