@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
