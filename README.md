@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
