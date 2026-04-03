@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+> Is the pool safe for diving? It deep ends.
 
 <!-- END -->
 
