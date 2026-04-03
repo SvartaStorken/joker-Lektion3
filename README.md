@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
