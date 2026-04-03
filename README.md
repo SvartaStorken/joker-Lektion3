@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
