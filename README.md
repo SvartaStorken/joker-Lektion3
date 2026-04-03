@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
