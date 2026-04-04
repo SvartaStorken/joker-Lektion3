@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
