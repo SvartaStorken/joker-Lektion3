@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
