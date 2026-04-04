@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
