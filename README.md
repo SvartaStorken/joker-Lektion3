@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
