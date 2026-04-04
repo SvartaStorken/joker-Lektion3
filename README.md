@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
