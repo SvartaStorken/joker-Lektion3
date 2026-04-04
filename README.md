@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
