@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
