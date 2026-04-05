@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
