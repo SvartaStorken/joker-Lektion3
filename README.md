@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a seal and a sea lion?
-An ion! 
+> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
 
 <!-- END -->
 
