@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
