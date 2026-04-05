@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
