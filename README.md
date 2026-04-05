@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
