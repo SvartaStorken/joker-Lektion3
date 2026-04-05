@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> Why does Han Solo like gum? It's chewy!
 
 <!-- END -->
 
