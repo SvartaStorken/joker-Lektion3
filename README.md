@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
