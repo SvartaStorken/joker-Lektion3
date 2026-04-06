@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
