@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
