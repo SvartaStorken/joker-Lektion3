@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
