@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 <!-- END -->
 
