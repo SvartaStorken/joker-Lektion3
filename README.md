@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 <!-- END -->
 
