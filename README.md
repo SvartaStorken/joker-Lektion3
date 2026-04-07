@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
