@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
