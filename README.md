@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> What do you call a sheep with no legs? A cloud.
 
 <!-- END -->
 
