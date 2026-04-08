@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> How many bones are in the human hand? A handful of them.
 
 <!-- END -->
 
