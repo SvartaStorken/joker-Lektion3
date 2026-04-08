@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
