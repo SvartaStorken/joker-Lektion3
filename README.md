@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> What do you call a fat psychic? A four-chin teller.
 
 <!-- END -->
 
