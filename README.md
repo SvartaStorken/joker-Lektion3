@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
