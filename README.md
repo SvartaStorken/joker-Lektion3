@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
 
 <!-- END -->
 
