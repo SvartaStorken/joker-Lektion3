@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
