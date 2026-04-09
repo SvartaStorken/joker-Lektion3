@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
