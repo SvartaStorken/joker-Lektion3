@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the joke about the wandering nun? She was a roman catholic.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
