@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
