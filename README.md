@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
