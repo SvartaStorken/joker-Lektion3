@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
