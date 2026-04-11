@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
