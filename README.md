@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
