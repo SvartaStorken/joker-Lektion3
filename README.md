@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
