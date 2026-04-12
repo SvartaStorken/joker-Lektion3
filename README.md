@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
