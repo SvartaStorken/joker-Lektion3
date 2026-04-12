@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
