@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
