@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
