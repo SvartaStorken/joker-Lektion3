@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
