@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
