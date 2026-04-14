@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy whose whole left side was cut off? He's all right now.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
