@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
