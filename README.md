@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
