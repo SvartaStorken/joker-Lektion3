@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
