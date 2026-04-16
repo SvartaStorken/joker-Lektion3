@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
