@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
