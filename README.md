@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What lies at the bottom of the ocean and twitches? A nervous wreck.
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
