@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+> What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 
 <!-- END -->
 
