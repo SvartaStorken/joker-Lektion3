@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
