@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
