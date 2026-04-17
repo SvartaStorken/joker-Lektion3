@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
