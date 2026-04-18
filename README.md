@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> How do locomotives know where they're going? Lots of training
 
 <!-- END -->
 
