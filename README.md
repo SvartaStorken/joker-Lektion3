@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
