@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
