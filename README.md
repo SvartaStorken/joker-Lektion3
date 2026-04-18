@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 <!-- END -->
 
