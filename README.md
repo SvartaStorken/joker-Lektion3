@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
