@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 <!-- END -->
 
