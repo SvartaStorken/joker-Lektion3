@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
