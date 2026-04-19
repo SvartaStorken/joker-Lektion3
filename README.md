@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
