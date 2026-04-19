@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
