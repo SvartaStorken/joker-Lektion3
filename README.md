@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
 
 <!-- END -->
 
