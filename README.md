@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
