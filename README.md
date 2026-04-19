@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
