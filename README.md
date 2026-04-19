@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> Why do bears have hairy coats? Fur protection.
 
 <!-- END -->
 
