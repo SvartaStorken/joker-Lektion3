@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
