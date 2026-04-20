@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
 
 <!-- END -->
 
