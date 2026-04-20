@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
