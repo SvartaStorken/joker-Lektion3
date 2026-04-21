@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> What do you call a fat psychic? A four-chin teller.
 
 <!-- END -->
 
