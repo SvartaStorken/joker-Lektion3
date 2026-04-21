@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
