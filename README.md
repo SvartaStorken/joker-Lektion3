@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
