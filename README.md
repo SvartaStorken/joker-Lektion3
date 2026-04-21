@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
