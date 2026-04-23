@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 
 <!-- END -->
 
