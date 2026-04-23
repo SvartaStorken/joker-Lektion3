@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 <!-- END -->
 
