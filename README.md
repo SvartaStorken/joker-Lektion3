@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
