@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
