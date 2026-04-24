@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
