@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
