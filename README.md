@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
