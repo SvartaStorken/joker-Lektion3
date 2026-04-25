@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 <!-- END -->
 
