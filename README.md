@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
