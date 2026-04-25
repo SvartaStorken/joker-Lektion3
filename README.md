@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
