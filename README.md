@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
