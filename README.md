@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
