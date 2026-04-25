@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
