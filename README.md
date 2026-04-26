@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
