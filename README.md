@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
