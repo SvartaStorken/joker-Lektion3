@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
