@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
