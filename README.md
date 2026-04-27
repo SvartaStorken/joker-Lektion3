@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
