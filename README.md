@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
