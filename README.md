@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
