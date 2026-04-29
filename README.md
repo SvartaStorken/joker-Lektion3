@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
