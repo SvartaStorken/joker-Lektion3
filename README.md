@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
