@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
