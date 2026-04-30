@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
