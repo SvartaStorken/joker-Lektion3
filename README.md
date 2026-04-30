@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> My dentist is the best, he even has a little plaque!
 
 <!-- END -->
 
