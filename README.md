@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
