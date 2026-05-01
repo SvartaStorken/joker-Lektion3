@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
