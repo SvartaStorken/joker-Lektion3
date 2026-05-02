@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
