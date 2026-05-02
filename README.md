@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
