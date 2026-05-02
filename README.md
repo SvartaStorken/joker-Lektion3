@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
