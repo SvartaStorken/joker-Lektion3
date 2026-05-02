@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
