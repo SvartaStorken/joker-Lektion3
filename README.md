@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 <!-- END -->
 
