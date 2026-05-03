@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
