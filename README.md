@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
