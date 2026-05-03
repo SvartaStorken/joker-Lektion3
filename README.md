@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
