@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
