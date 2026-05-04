@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
