@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
