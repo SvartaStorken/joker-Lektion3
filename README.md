@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
