@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
