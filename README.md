@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
