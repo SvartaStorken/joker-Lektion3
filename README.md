@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
