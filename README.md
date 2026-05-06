@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
