@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 <!-- END -->
 
