@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 <!-- END -->
 
