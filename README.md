@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
