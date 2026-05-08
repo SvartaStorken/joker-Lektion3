@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
