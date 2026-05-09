@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
