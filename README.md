@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
