@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
