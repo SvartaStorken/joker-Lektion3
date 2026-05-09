@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 
 <!-- END -->
 
