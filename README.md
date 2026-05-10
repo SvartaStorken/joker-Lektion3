@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
