@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
