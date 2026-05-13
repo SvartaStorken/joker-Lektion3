@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the big flower say to the littler flower? Hi, bud!
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
