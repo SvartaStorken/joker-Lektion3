@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
