@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 <!-- END -->
 
