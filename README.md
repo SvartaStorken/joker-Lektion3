@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 <!-- END -->
 
