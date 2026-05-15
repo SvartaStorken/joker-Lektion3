@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
