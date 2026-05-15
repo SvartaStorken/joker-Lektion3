@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> What do you call a fish wearing a bowtie? Sofishticated.
 
 <!-- END -->
 
