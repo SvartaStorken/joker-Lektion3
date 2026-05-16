@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
