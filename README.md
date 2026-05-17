@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
