@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
