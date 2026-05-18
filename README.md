@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
