@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
