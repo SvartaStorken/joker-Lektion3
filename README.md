@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
