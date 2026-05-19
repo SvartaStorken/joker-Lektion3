@@ -4,8 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+> Doctor: Do you want to hear the good news or the bad news?
+Patient: Good news please.
+Doctor: we're naming a disease after you.
 
 <!-- END -->
 
