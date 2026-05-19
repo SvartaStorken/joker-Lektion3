@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
