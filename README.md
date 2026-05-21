@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
