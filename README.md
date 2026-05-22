@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the bread factory burning down? They say the business is toast.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
