@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
