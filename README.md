@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
