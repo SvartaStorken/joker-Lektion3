@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
