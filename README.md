@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
