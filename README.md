@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
