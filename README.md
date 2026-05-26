@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
