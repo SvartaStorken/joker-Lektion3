@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
