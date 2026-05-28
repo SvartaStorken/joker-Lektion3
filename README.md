@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
