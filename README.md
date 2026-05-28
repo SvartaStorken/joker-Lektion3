@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
+I have no words to describe how angry I am.
 
 <!-- END -->
 
