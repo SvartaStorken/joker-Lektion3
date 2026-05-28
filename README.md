@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the two thieves who stole a calendar? They each got six months.
+> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 <!-- END -->
 
