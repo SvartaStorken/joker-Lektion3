@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
