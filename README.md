@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
