@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
