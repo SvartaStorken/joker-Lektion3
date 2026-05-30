@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
