@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
