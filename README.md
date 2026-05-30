@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
