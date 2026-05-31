@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
