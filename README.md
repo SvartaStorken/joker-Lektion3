@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
