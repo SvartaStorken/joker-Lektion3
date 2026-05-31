@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
