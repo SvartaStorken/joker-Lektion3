@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
