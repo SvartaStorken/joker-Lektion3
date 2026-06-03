@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
