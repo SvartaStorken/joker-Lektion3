@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
