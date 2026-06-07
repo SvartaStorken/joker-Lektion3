@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
