@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> What do you call a troublesome Canadian high schooler? A poutine.
 
 <!-- END -->
 
