@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
