@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
