@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish wearing a bowtie? Sofishticated.
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
