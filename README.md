@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
