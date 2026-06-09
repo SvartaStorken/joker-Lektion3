@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
