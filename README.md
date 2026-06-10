@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
