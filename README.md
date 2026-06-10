@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
