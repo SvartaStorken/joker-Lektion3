@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
