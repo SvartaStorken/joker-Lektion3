@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
