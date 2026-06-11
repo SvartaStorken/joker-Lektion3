@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
