@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
