@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
