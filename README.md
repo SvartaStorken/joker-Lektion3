@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
