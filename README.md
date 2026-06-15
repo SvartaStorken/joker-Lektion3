@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
