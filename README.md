@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 <!-- END -->
 
