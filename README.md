@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
