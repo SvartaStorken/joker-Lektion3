@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Why does Han Solo like gum? It's chewy!
 
 <!-- END -->
 
