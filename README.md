@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> What biscuit does a short person like? Shortbread. 
 
 <!-- END -->
 
