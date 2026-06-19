@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> What do you call a nervous javelin thrower? Shakespeare.
 
 <!-- END -->
 
