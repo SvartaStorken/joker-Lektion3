@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
