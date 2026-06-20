@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 <!-- END -->
 
