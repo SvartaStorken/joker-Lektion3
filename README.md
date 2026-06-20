@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
