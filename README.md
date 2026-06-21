@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
