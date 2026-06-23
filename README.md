@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
