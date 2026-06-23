@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+> Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 
 <!-- END -->
 
