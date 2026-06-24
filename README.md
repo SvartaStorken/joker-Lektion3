@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> When is a door not a door? When it's ajar.
 
 <!-- END -->
 
