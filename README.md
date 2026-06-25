@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
