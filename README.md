@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
