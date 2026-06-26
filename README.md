@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
