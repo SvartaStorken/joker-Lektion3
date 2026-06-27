@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who is the coolest Doctor in the hospital? The hip Doctor!
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
