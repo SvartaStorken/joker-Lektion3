@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What do you call a fish with no eyes? A fsh.
 
 <!-- END -->
 
