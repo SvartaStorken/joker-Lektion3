@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
