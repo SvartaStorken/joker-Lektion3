@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> I got an A on my origami assignment when I turned my paper into my teacher
 
 <!-- END -->
 
