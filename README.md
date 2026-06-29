@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
