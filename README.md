@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> What has a bed that you canât sleep in? A river.
 
 <!-- END -->
 
