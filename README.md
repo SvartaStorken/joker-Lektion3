@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
