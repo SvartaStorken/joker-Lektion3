@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
