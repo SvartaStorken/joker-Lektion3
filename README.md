@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
