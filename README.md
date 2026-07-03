@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
