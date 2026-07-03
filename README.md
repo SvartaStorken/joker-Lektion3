@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> What is the leading cause of dry skin? Towels
 
 <!-- END -->
 
