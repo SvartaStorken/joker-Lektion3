@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
