@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
