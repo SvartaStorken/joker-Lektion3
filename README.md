@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was thinking about moving to Moscow but there is no point Russian into things.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
