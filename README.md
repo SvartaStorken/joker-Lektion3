@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 <!-- END -->
 
