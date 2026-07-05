@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
