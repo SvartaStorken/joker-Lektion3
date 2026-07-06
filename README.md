@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
+> How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 <!-- END -->
 
