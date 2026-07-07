@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
