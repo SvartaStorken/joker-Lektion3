@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
