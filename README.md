@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
