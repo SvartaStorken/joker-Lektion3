@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
