@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 <!-- END -->
 
