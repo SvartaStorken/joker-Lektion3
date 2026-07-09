@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when your bunny gets wet? You get your hare dryer.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
