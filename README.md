@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
