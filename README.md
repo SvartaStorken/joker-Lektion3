@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
 
 <!-- END -->
 
