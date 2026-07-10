@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
