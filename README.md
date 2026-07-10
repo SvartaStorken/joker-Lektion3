@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
