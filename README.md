@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
