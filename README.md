@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> Where does astronauts hangout after work? At the spacebar.
 
 <!-- END -->
 
