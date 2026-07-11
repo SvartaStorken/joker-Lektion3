@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
