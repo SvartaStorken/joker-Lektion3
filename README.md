@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
