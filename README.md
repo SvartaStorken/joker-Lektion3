@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 <!-- END -->
 
