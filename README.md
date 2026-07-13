@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
