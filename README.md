@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> How does a dyslexic poet write? Inverse.
 
 <!-- END -->
 
