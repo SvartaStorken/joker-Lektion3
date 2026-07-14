@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
 
 <!-- END -->
 
