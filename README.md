@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
