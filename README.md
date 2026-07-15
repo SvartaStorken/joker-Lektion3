@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
