@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
