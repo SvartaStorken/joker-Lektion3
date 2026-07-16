@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
