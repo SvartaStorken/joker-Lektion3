@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
