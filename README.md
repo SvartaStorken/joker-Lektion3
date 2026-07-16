@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
