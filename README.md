@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
