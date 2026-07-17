@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
