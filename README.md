@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
