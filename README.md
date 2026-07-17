@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
