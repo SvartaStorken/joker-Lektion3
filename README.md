@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
