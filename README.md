@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
