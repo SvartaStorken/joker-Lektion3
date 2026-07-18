@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
