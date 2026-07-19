@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
