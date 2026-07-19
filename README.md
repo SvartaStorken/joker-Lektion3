@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
