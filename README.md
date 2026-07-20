@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> What kind of bagel can fly? A plain bagel.
 
 <!-- END -->
 
