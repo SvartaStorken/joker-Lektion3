@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the doctor today and he told me I had type A blood but it was a type O.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
