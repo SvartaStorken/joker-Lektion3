@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
