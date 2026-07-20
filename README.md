@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
