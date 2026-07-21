@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the Clydesdale give the pony a glass of water? â¨Because he was a little horse!
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
