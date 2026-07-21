@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
