@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
