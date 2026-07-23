@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
