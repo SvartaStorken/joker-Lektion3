@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
 
 <!-- END -->
 
