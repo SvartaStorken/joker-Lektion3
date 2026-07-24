@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> My dentist is the best, he even has a little plaque!
 
 <!-- END -->
 
