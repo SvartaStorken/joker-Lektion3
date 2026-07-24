@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
