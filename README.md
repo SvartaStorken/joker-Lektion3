@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> What type of music do balloons hate? Pop music!
 
 <!-- END -->
 
