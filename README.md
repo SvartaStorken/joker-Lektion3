@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
