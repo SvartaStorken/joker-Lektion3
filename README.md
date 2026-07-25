@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
 
 <!-- END -->
 
