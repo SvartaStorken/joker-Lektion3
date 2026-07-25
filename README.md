@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
