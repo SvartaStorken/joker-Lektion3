@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
