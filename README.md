@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> How many bones are in the human hand? A handful of them.
 
 <!-- END -->
 
