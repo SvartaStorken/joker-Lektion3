@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
