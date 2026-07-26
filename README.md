@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does an angry pepper do? It gets jalapeÃ±o face.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
