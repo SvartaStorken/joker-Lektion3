@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
