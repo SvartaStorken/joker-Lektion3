@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
