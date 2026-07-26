@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
