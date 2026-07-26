@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
