@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
