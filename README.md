@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Sore throats are a pain in the neck!
 
 <!-- END -->
 
