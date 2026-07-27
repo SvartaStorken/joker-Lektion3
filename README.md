@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
