@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 <!-- END -->
 
