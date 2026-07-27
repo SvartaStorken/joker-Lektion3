@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
