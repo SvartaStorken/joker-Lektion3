@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
