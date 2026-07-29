@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
