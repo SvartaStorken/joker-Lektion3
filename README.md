@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do crabs never give to charity? Because theyâre shellfish.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
