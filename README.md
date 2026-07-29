@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
