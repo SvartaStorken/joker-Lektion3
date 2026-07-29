@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
