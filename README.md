@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
