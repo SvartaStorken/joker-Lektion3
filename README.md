@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
