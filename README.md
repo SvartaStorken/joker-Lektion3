@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
