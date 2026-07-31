@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
