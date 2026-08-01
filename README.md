@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
