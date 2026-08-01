@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the new Kindle screen textured to look like paper? So you feel write at home.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
