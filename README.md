@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
