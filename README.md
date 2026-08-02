@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
