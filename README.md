@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
