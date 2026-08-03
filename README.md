@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> Where does batman go to the bathroom? The batroom.
 
 <!-- END -->
 
