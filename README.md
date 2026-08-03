@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
