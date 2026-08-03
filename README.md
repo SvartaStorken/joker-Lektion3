@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
