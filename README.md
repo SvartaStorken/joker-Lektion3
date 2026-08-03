@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
