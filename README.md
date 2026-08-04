@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
