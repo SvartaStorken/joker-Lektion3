@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
