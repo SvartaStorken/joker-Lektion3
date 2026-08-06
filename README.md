@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
