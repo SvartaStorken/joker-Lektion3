@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
