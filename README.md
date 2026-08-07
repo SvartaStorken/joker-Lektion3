@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
