@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
