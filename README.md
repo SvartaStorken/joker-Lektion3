@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
