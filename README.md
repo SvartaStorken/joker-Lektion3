@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
