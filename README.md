@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
