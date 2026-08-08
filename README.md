@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
