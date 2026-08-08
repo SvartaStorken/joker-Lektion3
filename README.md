@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 <!-- END -->
 
