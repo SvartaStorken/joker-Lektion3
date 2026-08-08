@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
