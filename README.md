@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
