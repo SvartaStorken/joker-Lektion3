@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
