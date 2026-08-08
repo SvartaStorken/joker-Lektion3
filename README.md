@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
