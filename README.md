@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> How many apples grow on a tree? All of them!
 
 <!-- END -->
 
