@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
