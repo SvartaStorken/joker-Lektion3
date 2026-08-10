@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
