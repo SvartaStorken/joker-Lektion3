@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
