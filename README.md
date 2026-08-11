@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> What's the worst part about being a cross-eyed teacher?
+
+They can't control their pupils.
 
 <!-- END -->
 
