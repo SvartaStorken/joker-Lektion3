@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
