@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
