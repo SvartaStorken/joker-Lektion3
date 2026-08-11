@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
