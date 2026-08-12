@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
