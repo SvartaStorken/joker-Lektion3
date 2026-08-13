@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
