@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
