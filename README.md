@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
