@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
