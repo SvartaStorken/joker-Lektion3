@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
