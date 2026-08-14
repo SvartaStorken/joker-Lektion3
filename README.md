@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does an angry pepper do? It gets jalapeÃ±o face.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
