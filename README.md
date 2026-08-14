@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
