@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
