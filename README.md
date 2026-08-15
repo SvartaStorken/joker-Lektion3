@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
