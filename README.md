@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
