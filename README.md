@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
