@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
