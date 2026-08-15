@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
