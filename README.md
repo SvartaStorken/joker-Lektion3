@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
