@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
