@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâre pretty repulsive yourself.
 
 <!-- END -->
 
