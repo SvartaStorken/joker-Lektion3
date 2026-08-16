@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
