@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
