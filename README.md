@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
