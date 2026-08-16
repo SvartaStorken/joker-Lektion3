@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
