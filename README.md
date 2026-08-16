@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
