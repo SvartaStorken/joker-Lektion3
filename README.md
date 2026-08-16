@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
