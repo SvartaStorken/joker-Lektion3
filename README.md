@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
