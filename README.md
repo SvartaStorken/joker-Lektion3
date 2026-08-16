@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
+> How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 <!-- END -->
 
