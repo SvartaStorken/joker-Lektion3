@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
