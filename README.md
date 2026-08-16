@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> How much does a hipster weigh? An instagram.
 
 <!-- END -->
 
