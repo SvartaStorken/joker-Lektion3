@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> Where did you learn to make ice cream? Sunday school.
 
 <!-- END -->
 
