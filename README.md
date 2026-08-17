@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
