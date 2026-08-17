@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
