@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.
+> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 <!-- END -->
 
