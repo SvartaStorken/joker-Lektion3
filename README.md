@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
