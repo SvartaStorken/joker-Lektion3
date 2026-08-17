@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
