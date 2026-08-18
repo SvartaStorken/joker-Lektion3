@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> Why was the picture sent to prison? It was framed.
 
 <!-- END -->
 
