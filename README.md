@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
