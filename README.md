@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
