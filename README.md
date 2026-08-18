@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do nurses carry around red crayons? Sometimes they need to draw blood.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
