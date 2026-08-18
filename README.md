@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
