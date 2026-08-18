@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
