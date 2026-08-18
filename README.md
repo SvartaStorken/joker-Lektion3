@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
