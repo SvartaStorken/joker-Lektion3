@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
