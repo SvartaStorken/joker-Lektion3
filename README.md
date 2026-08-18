@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
