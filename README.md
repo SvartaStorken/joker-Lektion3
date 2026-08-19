@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
