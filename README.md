@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
