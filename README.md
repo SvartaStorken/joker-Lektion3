@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
