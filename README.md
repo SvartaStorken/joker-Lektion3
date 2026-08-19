@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from the transmission factor, turns out I didn't put on enough shifts...
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
