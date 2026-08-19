@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
