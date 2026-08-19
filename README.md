@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
