@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
