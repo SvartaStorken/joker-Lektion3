@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
