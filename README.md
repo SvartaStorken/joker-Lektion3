@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
