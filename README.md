@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
