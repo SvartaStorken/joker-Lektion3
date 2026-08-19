@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
