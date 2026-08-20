@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
