@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
