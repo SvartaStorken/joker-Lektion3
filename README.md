@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
