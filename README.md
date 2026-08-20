@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Can February march? No, but April may.
 
 <!-- END -->
 
