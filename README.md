@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.
+> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
 
 <!-- END -->
 
