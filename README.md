@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish with no eyes? A fsh.
+> I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.
 
 <!-- END -->
 
