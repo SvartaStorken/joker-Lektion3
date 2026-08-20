@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
