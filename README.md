@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 <!-- END -->
 
