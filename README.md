@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dad that has fallen through the ice? A Popsicle.
+> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 <!-- END -->
 
