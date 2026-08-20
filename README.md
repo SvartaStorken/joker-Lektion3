@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
