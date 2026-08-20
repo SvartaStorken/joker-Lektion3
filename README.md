@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
