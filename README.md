@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
