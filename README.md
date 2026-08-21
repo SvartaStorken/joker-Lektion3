@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
