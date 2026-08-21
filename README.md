@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
