@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call someone with no nose? Nobody knows.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
