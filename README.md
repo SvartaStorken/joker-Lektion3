@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 <!-- END -->
 
