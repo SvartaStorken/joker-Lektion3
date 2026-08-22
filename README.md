@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
