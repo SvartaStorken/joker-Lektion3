@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
