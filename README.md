@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
