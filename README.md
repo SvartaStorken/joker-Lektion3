@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
