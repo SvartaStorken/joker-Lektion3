@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the house go to the doctor? It was having window panes.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
