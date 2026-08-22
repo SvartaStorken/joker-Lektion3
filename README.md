@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
 
 <!-- END -->
 
