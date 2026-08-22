@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
