@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> What did the mountain climber name his son? Cliff.
 
 <!-- END -->
 
