@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
