@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
