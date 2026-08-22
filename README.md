@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
