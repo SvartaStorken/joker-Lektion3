@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
