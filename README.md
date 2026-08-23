@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
