@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
