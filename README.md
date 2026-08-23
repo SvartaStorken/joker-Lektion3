@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
