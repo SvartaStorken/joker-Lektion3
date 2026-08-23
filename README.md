@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
