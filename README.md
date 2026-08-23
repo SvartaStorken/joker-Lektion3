@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> How much does a hipster weigh? An instagram.
 
 <!-- END -->
 
