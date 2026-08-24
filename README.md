@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
 
 <!-- END -->
 
