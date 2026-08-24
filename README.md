@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
