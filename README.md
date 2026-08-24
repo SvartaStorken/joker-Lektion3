@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
