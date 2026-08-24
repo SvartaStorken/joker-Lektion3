@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> When do doctors get angry? When they run out of patients.
 
 <!-- END -->
 
