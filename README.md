@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
