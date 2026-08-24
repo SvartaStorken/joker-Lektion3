@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
