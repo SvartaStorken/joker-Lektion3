@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My first time using an elevator was an uplifting experience. The second time let me down.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
