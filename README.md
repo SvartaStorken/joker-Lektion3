@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
