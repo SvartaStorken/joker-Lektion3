@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
