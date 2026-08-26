@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 <!-- END -->
 
