@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
