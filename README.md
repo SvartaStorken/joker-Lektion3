@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
