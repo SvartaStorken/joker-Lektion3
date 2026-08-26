@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
