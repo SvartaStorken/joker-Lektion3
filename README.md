@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
