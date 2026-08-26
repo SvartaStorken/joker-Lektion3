@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
