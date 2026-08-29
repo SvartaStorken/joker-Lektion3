@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
