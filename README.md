@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
