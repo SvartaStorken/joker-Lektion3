@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
