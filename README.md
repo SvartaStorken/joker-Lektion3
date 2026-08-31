@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
