@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> What do you call a beehive without the b's? An eehive.
 
 <!-- END -->
 
