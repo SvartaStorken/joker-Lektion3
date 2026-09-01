@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
