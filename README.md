@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
