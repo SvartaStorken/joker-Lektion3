@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
