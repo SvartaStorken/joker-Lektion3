@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
