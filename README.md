@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
