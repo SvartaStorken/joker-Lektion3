@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
