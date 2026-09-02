@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
