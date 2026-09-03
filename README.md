@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
