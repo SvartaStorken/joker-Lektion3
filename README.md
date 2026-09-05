@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
