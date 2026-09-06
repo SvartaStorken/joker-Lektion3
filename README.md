@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> When do doctors get angry? When they run out of patients.
 
 <!-- END -->
 
