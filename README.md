@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 <!-- END -->
 
