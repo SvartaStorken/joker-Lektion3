@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
