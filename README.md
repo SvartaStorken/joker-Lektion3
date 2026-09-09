@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you give a sick lemon? Lemonaid.
+> How do you organize a space party? You planet.
 
 <!-- END -->
 
