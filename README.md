@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 <!-- END -->
 
