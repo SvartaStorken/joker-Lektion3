@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
