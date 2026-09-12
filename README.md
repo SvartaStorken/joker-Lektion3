@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
