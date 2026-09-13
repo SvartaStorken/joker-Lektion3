@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
