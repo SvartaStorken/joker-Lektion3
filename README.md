@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 <!-- END -->
 
