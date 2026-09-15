@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do crabs never give to charity? Because theyâre shellfish.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
