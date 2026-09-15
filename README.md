@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
