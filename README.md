@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
