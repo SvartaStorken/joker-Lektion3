@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
