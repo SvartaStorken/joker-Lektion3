@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
