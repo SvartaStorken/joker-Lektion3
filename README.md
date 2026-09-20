@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
