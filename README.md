@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
