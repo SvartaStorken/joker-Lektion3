@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
