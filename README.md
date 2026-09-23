@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
