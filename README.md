@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
