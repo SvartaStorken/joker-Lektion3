@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do vegetarian zombies eat? Grrrrrainnnnnssss.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
