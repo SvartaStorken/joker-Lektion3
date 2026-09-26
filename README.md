@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
