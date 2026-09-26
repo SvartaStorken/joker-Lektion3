@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does an angry pepper do? It gets jalapeÃ±o face.
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
