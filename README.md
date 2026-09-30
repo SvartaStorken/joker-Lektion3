@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
