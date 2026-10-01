@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
