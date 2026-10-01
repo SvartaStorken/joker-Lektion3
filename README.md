@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
