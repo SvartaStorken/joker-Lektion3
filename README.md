@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a careful wolf? Aware wolf.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
