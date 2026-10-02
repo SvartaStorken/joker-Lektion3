@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
