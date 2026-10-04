@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
