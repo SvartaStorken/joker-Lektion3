@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
