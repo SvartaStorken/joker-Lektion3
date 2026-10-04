@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 <!-- END -->
 
