@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
