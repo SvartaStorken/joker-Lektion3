@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
