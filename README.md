@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
