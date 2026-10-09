@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
