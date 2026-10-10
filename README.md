@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
