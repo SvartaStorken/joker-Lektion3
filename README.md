@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
