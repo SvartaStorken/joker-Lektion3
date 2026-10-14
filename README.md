@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
