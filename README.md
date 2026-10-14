@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
