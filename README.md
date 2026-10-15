@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
