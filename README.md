@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 <!-- END -->
 
