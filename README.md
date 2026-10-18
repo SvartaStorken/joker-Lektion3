@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
