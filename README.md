@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
