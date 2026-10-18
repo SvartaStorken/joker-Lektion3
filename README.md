@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
