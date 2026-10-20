@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
