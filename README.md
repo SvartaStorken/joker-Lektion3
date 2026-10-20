@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
