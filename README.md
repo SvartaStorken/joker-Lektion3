@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
