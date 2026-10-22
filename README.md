@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
