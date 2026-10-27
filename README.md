@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
