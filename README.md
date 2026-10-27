@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
