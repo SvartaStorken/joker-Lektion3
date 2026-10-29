@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
