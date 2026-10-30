@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
 
 <!-- END -->
 
