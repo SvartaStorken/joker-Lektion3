@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the big flower say to the littler flower? Hi, bud!
+> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 <!-- END -->
 
