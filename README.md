@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
