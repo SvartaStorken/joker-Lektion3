@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
