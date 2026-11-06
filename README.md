@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
