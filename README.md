@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> How do robots eat guacamole? With computer chips.
 
 <!-- END -->
 
