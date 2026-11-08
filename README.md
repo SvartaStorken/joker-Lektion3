@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 <!-- END -->
 
