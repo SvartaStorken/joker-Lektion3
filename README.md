@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
