@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
