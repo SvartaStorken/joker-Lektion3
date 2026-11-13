@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
