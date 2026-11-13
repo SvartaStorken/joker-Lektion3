@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a troublesome Canadian high schooler? A poutine.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
