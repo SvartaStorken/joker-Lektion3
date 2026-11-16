@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 <!-- END -->
 
