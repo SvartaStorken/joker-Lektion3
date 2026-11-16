@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
