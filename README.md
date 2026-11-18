@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
