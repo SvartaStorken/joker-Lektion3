@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
