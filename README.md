@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 <!-- END -->
 
