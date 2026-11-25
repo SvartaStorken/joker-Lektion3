@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> What kind of music do mummy's like? Rap
 
 <!-- END -->
 
