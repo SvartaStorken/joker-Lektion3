@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
