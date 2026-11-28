@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
